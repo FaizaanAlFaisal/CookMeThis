@@ -2,6 +2,8 @@
 
 A meal planner application that uses a large recipe database. It allows users to select a list of ingredients and gives options for potential meals that can be prepared.
 
+Done alongside @munimdev in our Semester 3 course, Database Systems. 
+
 # Features
 
 <ul>
